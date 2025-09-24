@@ -1,14 +1,10 @@
 # Tables-Monte-Lodahl
 <!DOCTYPE html>
 <html lang="en-US">
-<style>
-    table, tr, td {
-        border: 1px solid black;
-    }
-</style>
+
 
 <table>
-    <caption>Cost Of Items In Different Stores</caption>
+    <caption><h3>Cost Of Items In Different Stores</h3></caption>
     <thead>
         <tr>
             <th></th>
@@ -30,13 +26,16 @@
             <td>Butter</td>
             <td>$6.32</td>
             <td>$4.32</td>
-             <td></td>
+             <td>$5.37</td>
         </tr>
         <tr>
             <td>Ice Cream</td>
-            <td></td>
-            <td></td>
-             <td></td>
+            <td>$20.65</td>
+            <td>$4.32</td>
+             <td>$273.47</td>
+        </tr>
+        <tr>
+           <td colspan="4"> Shown at the table above Gordy's is the cheapest.</td> 
         </tr>
     </tfoot>
 </table>
