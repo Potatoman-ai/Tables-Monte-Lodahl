@@ -39,4 +39,13 @@
         </tr>
     </tfoot>
 </table>
+<ol style="property: value;">
+    <li>First go to Gordy's</li>
+    <li>Buy ice cream</li>
+    <li>Buy rootbeer</li>
+    <li>Go Home</li>
+    <li>pour rootbeer in cup</li>
+    <li>Put Ice cream in cup</li>
+    <li>Enjoy</li>
+</ol>
 </html>
